@@ -10,7 +10,7 @@ body{
     flex-direction: column;
 }
 
-/*First Div*/
+/* First Div */
 .one{
     background-color: #1f2937;
     margin: 0;
@@ -80,7 +80,7 @@ button{
     font-weight: bold;
 }
 
-/*Second Div*/
+/* Second Div */
 .two{
     display: flex;
     flex-direction: column;
@@ -116,3 +116,5 @@ button{
     flex-wrap: wrap;
     text-align: center;
 }
+
+/* Third Div */
