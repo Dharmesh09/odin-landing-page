@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.one{
+    background-color: #1f2937;
+    margin: 0;
+    padding: 10px 0 0 0;
+}
+
+.header{
+    display: flex;
+    /* margin: 0 100px; */
+    align-items: center;
+}
+
+.logo{
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    color: #e5e7eb;
+    font-size: 18px;
+    gap: 12px;
+    margin-left: auto;
+}
+
+.one-content{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+}
