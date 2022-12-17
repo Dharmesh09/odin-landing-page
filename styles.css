@@ -21,7 +21,7 @@ body{
 
 .header{
     display: flex;
-    /* margin: 0 100px; */
+    margin: 0 100px;
     align-items: center;
 }
 
@@ -43,7 +43,7 @@ ul{
     display: flex;
     justify-content: space-between;
     gap: 20px;
-    margin: 48px 0;
+    margin: 48px 100px;
 }
 
 .one-main{
@@ -136,12 +136,14 @@ button{
     font-style: italic;
     font-weight: lighter;
     color: #1f2937;
+    margin: 0 100px;
 }
 
 .three-credits{
     align-self: flex-end;
     font-weight: bold;
     font-size: 18px;
+    margin: 0 100px;
 }
 
 /* Fourth Div */
