@@ -118,3 +118,26 @@ button{
 }
 
 /* Third Div */
+
+.three{
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 0;
+}
+
+.three-text{
+    text-align: justify;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.three-credits{
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 18px;
+}
