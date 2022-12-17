@@ -10,6 +10,11 @@ body{
     flex-direction: column;
 }
 
+a{
+    text-decoration: none;
+    color: #f9faf8;
+}
+
 /* First Div */
 .one{
     background-color: #1f2937;
