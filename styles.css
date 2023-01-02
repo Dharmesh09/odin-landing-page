@@ -136,8 +136,13 @@ button{
     width: inherit;
 }
 
-.blocks:hover{
-    
+.two-block{
+    transition-duration: 0.3s;
+}
+
+.two-block:hover{
+    transform: scale(1.03);
+    transition-duration: 0.3s;
 }
 
 .placeholder{
