@@ -53,8 +53,17 @@ ul{
     list-style-type: none;
     color: #e5e7eb;
     font-size: 18px;
-    gap: 12px;
+    gap: 18px;
     margin-left: auto;
+}
+
+.links li{
+    transition-duration: 0.3s;
+}
+
+.links li:hover{
+    transform: scale(1.05);
+    transition-duration: 0.3s;
 }
 
 .one-content{
